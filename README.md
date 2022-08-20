@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TarR87
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Porgramming
+- 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me Bitcoin
 
 <!---
